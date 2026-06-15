@@ -40,8 +40,6 @@ I build practical systems that turn data into useful applications — from SACCO
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sintax66&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sintax66&layout=compact&theme=radical)
-
 ---
 
 
